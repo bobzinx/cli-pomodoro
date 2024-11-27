@@ -27,12 +27,12 @@ Para que o script funcione corretamente, é necessário instalar algumas depend�
 2. Instalar o `spd-say`:
    Para distribuições baseadas em Debian (como Ubuntu e Mint), use o comando abaixo:
 
-``` sudo apt install speech-dispatcher ```
+`sudo apt install speech-dispatcher`
 
 3. Instalar o `lolcat` (opcional):
    Se você deseja adicionar uma fala divertida no terminal, instale o `lolcat` com o comando:
 
-   ``` sudo apt install lolcat```
+   `sudo apt install lolcat`
 
 4. Instalar o `timer`:
    Com o Go instalado, execute o seguinte comando para instalar o `timer`:
